@@ -2,7 +2,15 @@
 
 # Bambloo :blueberries::panda_face:
 > A Chrome extension that creates a Discord activity just as you want
+
 </div>
+<br>
+<br>
+<br>
+
+> [!WARNING]
+> Under development!
+
 <br>
 <br>
 <br>
