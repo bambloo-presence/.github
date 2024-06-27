@@ -1,7 +1,8 @@
 <div align=center>
 
 # Bambloo :blueberries::panda_face:
-> A Chrome extension that creates a Discord activity just as you want
+> A Chrome extension that creates a Discord activity just as you want  
+> [Discord Server](https://discord.gg/4gNjyuXgMG)
 
 </div>
 <br>
